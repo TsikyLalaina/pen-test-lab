@@ -1,6 +1,6 @@
 # Penetration Testing Lab
 
-A hands-on project to practice ethical hacking using Kali Linux, targeting a pfSense-protected network with a DMZ web server and LAN clients. Built in VirtualBox on Arch Linux with Hyprland, this lab focuses on reconnaissance, enumeration, simulated attacks, and firewall log analysis to enhance network security skills for a system and network administrator internship.
+A hands-on project to practice ethical hacking using Kali Linux, targeting a pfSense-protected network with a DMZ web server and LAN clients. Built in VirtualBox on Arch Linux with Hyprland, this lab focuses on reconnaissance, enumeration, simulated attacks, and firewall log analysis to enhance network security skills.
 
 ---
 
