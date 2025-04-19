@@ -71,7 +71,7 @@ The lab targets a DMZ web server (`192.168.2.101`) and LAN clients (`192.168.10.
 - **Network**: Assigned IP `192.168.10.103` via DHCP.
 - **Verification**: Accessed pfSense web UI (`https://192.168.10.1`) using `curl` and `lynx`.
 
-![DMZ Web Server](https://github.com/TsikyLalaina/security-lab/blob/main/AlpineDMZserver.png)
+![DMZ Web Server](https://github.com/TsikyLalaina/security-lab/blob/main/AlpineDMZServer.png)
 
 ### Firewall Adjustments
 
